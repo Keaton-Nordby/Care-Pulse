@@ -1,3 +1,11 @@
+// terminal commands, you may need to reso the global.css, utils.ts, and tailwind.config.ts
+// npm install clsx tailwind-merge
+// npx shadcn@latest init
+// npx shadcn@latest add button
+// for dark mode: npm install next-themes
+// npx shadcn-ui@latest add form
+// npm shadcn-ui@latest add input
+
 import type { Config } from "tailwindcss";
 
 const { fontFamily } = require("tailwindcss/defaultTheme");
